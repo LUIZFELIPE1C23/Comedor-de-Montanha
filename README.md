@@ -1,5 +1,5 @@
 # [NOME DO PROJETO]
-> **Status:** Diego Comedor de Montanha
+> **Status:** Comedor de Montanha
 > **Data:** 18/05/2026
 ## Problema
 [Descreva em 2-3 frases]
