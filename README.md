@@ -33,8 +33,8 @@
 | Nome | Papel (Inovação) | Papel (Back-end) |
 |------|------------------|------------------|
 | Luiz F. | Documentação/Validação | API/Banco |
-| ... | Prototipagem | Front-end (se houver) |
-| ... | ... | ... |
+| Rhuan Lagos | Prototipagem | Front-end |
+| Murilo Piola | Scrum-Master | ... |
 ## Links úteis
 - **Kanban (Trello):** [https://trello.com/invite/b/69d4e77dc1ebd488abf45c34/ATTI4b2f9b06793edd07f51bdc0d2e1174924E6BF243/meu-quadro-do-trello]
 - **Protótipo (Figma):** [a preencher]
